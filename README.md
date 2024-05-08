@@ -4,7 +4,7 @@
 [![Linkedle](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurien-santos-3b6748208/)
 
 ![Laurien GitHub stats](https://github-readme-stats.vercel.app/api?username=LaurienSantos&show_icons=true&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaurienSantos&hide_progress=true)
 ### Tecnologias
 
 <div style="display: flex;">
